@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Keza Teta Keffa Lyssa. I am passionate about technology, innovation, and making a difference through impactful projects. I'm currently enrolled in the ALX Pathway program and learning how to use GitHub effectively.
+
+I believe in continuous learning and love solving real-world problems, especially those that improve lives in my community. This is my first GitHub project, and I’m excited to grow in my tech journey.
